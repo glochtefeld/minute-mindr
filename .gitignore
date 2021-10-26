@@ -1,0 +1,5 @@
+# Pip & Python
+venv/
+
+# NPM & Node
+node_modules/
