@@ -1,5 +1,7 @@
 # Pip & Python
 venv/
+.env 
+__pycache__/
 
 # NPM & Node
 node_modules/

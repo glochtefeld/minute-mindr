@@ -1,0 +1,7 @@
+DJ_ENGINE="Your DB Engine"
+DJ_NAME="Your DB name"
+DJ_USER="Your DB username"
+DJ_PW="Your DB Password"
+DJ_HOST="Your DB host IP"
+DJ_PORT="Your DB host port"
+DJ_SECRET="Your Django Secret"
